@@ -22,6 +22,10 @@ Saya senang belajar teknologi baru dan berkontribusi ke open-source.
 <a href="https://github.com/chzzie">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chzzie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chzzie&layout=compact&langs_count=8&theme=algolia"/>
-  ![Chzzie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chzzie&show_icons=true&theme=radical)
 </a>
 </p>
+
+
+## 📊 GitHub Stats
+![Fikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&count_private=true&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
