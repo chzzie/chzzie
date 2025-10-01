@@ -18,5 +18,5 @@ Saya senang belajar teknologi baru dan berkontribusi ke open-source.
 ---
 
 ## 📊 GitHub Stats
-![Chzzie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chzzie&show_icons=true&theme=tokyonight)
+![Chzzie's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chzzie&layout=compact&langs_count=8&theme=tokyonight)
